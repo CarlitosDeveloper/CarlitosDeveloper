@@ -163,7 +163,7 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
 
 <div align="center">
   <a title="Go to Source">
-    <img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com?user=LearnWithCarlitos&theme=great-gatsby&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=500" alt="Current Streak" />
+    <img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com?user=LearnWithCarlitos&theme=onedark&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=500" alt="Current Streak" />
   </a>
 </div>
 
@@ -171,7 +171,7 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
 
 <div align="center">
   <a title="Go to Source">
-    <img align="center" width=60% src="https://github-readme-stats.vercel.app/api?username=LearnWithCarlitos&show_icons=true&theme=great-gatsby" alt="GitHub Stats Profile" />
+    <img align="center" width=60% src="https://github-readme-stats.vercel.app/api?username=LearnWithCarlitos&show_icons=true&theme=onedark" alt="GitHub Stats Profile" />
   </a>
 </div>
 
@@ -179,7 +179,7 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
 
 <div align="center">
   <a title="Go to Source">
-    <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnWithCarlitos&layout=compact&theme=great-gatsby" alt="Most Used Languages" />
+    <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnWithCarlitos&layout=compact&theme=onedark" alt="Most Used Languages" />
   </a>
 </div>
 
@@ -187,7 +187,7 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
 
 <div align="center">
   <a title="Go to Source">
-    <img align="center" width=75% src="https://github-profile-trophy.vercel.app/?username=LearnWithCarlitos&theme=great-gatsby&row=3&column=3&margin-h=20&margin-w=20&no-bg=false" alt="TROPHY" />
+    <img align="center" width=75% src="https://github-profile-trophy.vercel.app/?username=LearnWithCarlitos&theme=onedark&row=3&column=3&margin-h=20&margin-w=20&no-bg=false" alt="TROPHY" />
   </a>
 </div>
 
