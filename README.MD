@@ -1,19 +1,18 @@
+<!-- // CONTADOR DE VISITAS // -->
 
-<!-- // COUNT VIEWS // -->
-
-<img align="right" src="https://komarev.com/ghpvc/?username=LearnWithCarlitos&style=flat-square&label=PROFILE+VIEWS&color=cc241d" />
+<img align="right" src="https://komarev.com/ghpvc/?username=LearnWithCarlitos&style=flat-square&label=VISITAS+AL+PERFIL&color=cc241d" />
 
 <br/>
 
-<!-- // MESSAGE WELCOME // -->
+<!-- // MENSAJE DE BIENVENIDA // -->
 
-![Header](./github-header-image.png)
+![Encabezado](./github-header-image.png)
 
-# Hey 👋, I'm Carlos Calderon! Glad to see you here!
+# ¡Hola 👋! Soy Carlos Calderón, ¡me alegra verte aquí!
 
-<!--- // ----- // ----- // SOCIAL BOTTOM: INIT // ----- // ----- //--->
+<!--- // ----- // ----- // REDES SOCIALES: INICIO // ----- // ----- //--->
 
-### My social networks
+### Mis redes sociales
 
 <a href="https://github.com/LearnWithCarlitos" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -37,88 +36,85 @@
 <a href="https://discord.gg/JMan6jrp" target="_blank">
 <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 
-<!--- // ----- // ----- // SOCIAL BOTTOM: FINISH // ----- // ----- //--->
+<!--- // ----- // ----- // REDES SOCIALES: FIN // ----- // ----- //--->
 
 <br />
 
-<!--- // ----- // ----- // ABOUT ME!: INIT // ----- // ----- //--->
+<!--- // ----- // ----- // SOBRE MÍ: INICIO // ----- // ----- //--->
 
-### About Me
+### Sobre mí
 
-I'm a Systems Engineer passionate about technology, sports, and mathematics. Since a young age, I've been immersed in the world of programming and software development, constantly seeking to improve my skills and knowledge in this field.
+Soy Ingeniero de Sistemas apasionado por la tecnología, los deportes y las matemáticas. Desde joven, he estado inmerso en el mundo de la programación y el desarrollo de software, siempre buscando mejorar mis habilidades y conocimientos en este campo.
 
-### My Goals
+### Mis metas
 
-I strive for two main things: learning English to better communicate in a global environment and optimizing my work as a programmer. I firmly believe in the importance of continuous learning and constant improvement in any profession, and I'm committed to achieving these goals day by day.
+Mis objetivos principales son:
+- Aprender inglés para comunicarme mejor en un entorno global.
+- Optimizar mi trabajo como programador.  
 
-### Professional Experience
+Creo firmemente en la importancia del aprendizaje continuo y la mejora constante en cualquier profesión, y me esfuerzo día a día para alcanzar estas metas.
 
-Throughout my career, I've had the opportunity to work on various projects, from web applications to custom software solutions. My main focus has always been on writing clean and efficient code that effectively solves problems.
+### Experiencia profesional
 
-### Contact
+A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones web hasta soluciones de software personalizadas. Siempre me enfoco en escribir código limpio y eficiente que resuelva problemas de manera efectiva.
 
-I'm always open to new opportunities and collaborations! Feel free to reach out to me if you want to discuss ideas, projects, or just chat about technology and programming.
+### Contacto
 
-<!--- // ----- // ----- // ABOUT ME!: FINISH // ----- // ----- //--->
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme si quieres discutir ideas, proyectos o simplemente charlar sobre tecnología y programación.
 
-<!--- // ----- // ----- // RapidFire: INIT // ----- // ----- //--->
+<!--- // ----- // ----- // SOBRE MÍ: FIN // ----- // ----- //--->
 
-# RapidFire
+<!--- // ----- // ----- // DATOS RÁPIDOS: INICIO // ----- // ----- //--->
 
-- 🔭 Currently, I am working as a content creator [My Channel!](https://www.youtube.com/@DevelopingWithCarlitos)
+# Datos rápidos
 
-- I am currently trying hard. To obtain an international English certificate (TOEFL or IELTS)
+- 🔭 Actualmente, soy creador de contenido en [Mi Canal](https://www.youtube.com/@DevelopingWithCarlitos).
+
+- 📝 Estoy esforzándome para obtener un certificado internacional de inglés (TOEFL o IELTS).
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />
 
-<!--- // ----- // ----- // RapidFire: FINISH // ----- // ----- //--->
+<!--- // ----- // ----- // DATOS RÁPIDOS: FIN // ----- // ----- //--->
 
-<!--- // ----- // ----- // SKILL SET: INIT // ----- // ----- //--->
+<!--- // ----- // ----- // HABILIDADES: INICIO // ----- // ----- //--->
 
 ## My Skill Set
 
-<!--- // ----- // ----- // SKILL SET WITHOUT TABLE: INIT // ----- // ----- //--->
-
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Excel%20-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+
+<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-
-<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-<!--- // ----- // ----- // SKILL SET WITHOUT TABLE: FINISH // ----- // ----- //--->
 <br/>
 
 <table><tr><td valign="top" width="33%">
@@ -142,8 +138,7 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
   <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="75" /></a>  
-  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
+  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a>  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
@@ -154,17 +149,14 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 <td valign="top" width="33%">
 
 ### DevOps
-  <div align="center">  
-    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
-    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" /></a>  
-    <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" /></a>  
+  <div align="center">
+    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>
   </div>
 </td>
 </tr>
 </table>
 
-<!--- // ----- // ----- // SKILL SET: FINISH // ----- // ----- //--->
+<!--- // ----- // ----- // HABILIDADES: FIN // ----- // ----- //--->
 
 <!--- // ----- // ----- // GITHUB STATS: INIT // ----- // ----- //--->
 
@@ -209,3 +201,4 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&duration=2000&pause=1000&color=D79921&background=3C383600&center=true&random=false&height=100&lines=Thanks+for+visiting+my+repository;Bye+Bye.)
+
