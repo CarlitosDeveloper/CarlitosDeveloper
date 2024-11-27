@@ -191,6 +191,8 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
   </a>
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LearnWithCarlitos)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <!--- // ----- // ----- // GITHUB STATS: FINISH // ----- // ----- //--->
