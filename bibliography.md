@@ -12,3 +12,4 @@ Hello Little Friend. If you want to make a presentation on GitHub for your profi
 - https://profilinator.rishav.dev/
 - https://github.com/TawkirAlif/Markdown-Badges
 - https://www.color-hex.com/color-palette/1026676
+- https://shields.io/docs/?utm_source=chatgpt.com
