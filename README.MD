@@ -1,22 +1,19 @@
-<!-- // CONTADOR DE VISITAS // -->
 
-<img align="right" src="https://komarev.com/ghpvc/?username=LearnWithCarlitos&style=flat-square&label=VISITAS+AL+PERFIL&color=cc241d" />
+<img align="right" src="https://komarev.com/ghpvc/?username=LearnWithCarlitos&style=flat-square&label=VISITAS+AL+PERFIL&color=cc241d"/>
 
 ---
 
-<!-- // MENSAJE DE BIENVENIDA // -->
-
 ![Encabezado](./github-header-image.png)
 
-# ¡Hola 👋! Soy Carlos Calderón, ¡me alegra verte aquí!
+---
 
-<!--- // ----- // ----- // REDES SOCIALES: INICIO // ----- // ----- //--->
+# ¡Hola 👋! Soy Carlos Calderón, ¡me alegra verte aquí!
 
 ### Mis redes sociales
 
 <a href="https://github.com/LearnWithCarlitos" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
+</a>
 <a href="https://www.tiktok.com/@learnwithcarlitos" target="_blank">
   <img src="https://img.shields.io/badge/Tiktok%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
 <a href="https://www.twitch.tv/learnwithcarlitos" target="_blank">
@@ -30,10 +27,6 @@
 <a href="https://discord.gg/JMan6jrp" target="_blank">
   <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
-<!--- // ----- // ----- // REDES SOCIALES: FIN // ----- // ----- //--->
-
-<!--- // ----- // ----- // SOBRE MÍ: INICIO // ----- // ----- //--->
 
 # Sobre mí 👋
 
@@ -65,9 +58,7 @@
 
 Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al día en el mundo del desarrollo web. Si tienes algún proyecto interesante o quieres colaborar, ¡no dudes en contactarme! 🚀
 
-<!--- // ----- // ----- // SOBRE MÍ: FIN // ----- // ----- //--->
-
-<!--- // ----- // ----- // HABILIDADES: INICIO // ----- // ----- //--->
+---
 
 ## Mis habilidades (Full-Stack Developer Tech Stack)
 <table>
