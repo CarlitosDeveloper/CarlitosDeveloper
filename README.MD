@@ -2,6 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=LearnWithCarlitos&style=flat-square&label=VISITAS+AL+PERFIL&color=cc241d" />
 
+---
 
 <!-- // MENSAJE DE BIENVENIDA // -->
 
@@ -111,8 +112,9 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
 </tr>
 </table>
 
-<!--- // ----- // ----- // HABILIDADES: FIN // ----- // ----- //--->
+<!--- // ----- // ----- // ----- // ----- // HABILIDADES: FIN // ----- // ----- // ----- // ----- //--->
 ---
+
 <div align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -125,12 +127,19 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+---
+
+<div align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel%20-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
+
 ---
+
 <!--- // ----- // ----- // GITHUB STATS: INIT // ----- // ----- //--->
 
 # Github Stats
