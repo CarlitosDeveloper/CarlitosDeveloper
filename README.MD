@@ -62,31 +62,9 @@
 - **Git**: Control de versiones y colaboración en equipo.
 - **ESLint / Prettier**: Código limpio, consistente y fácil de mantener.
 
----
-
 Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al día en el mundo del desarrollo web. Si tienes algún proyecto interesante o quieres colaborar, ¡no dudes en contactarme! 🚀
 
 <!--- // ----- // ----- // SOBRE MÍ: FIN // ----- // ----- //--->
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel%20-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</div>
-
-
 
 <!--- // ----- // ----- // HABILIDADES: INICIO // ----- // ----- //--->
 
@@ -122,10 +100,7 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
   <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>
   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>
 </div>
-
-</td>
-
-<td valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 ### DevOps
 <div align="center">
@@ -137,9 +112,25 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
 </table>
 
 <!--- // ----- // ----- // HABILIDADES: FIN // ----- // ----- //--->
-
 ---
-
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel%20-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</div>
+---
 <!--- // ----- // ----- // GITHUB STATS: INIT // ----- // ----- //--->
 
 # Github Stats
@@ -169,8 +160,8 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
   </div>
 </div>
 
-<!--- // ----- // ----- // GITHUB STATS: FINISH // ----- // ----- //--->
-
-
+<!--- // ----- // ----- // HABILIDADES: FIN // ----- // ----- //--->
+---
+<!--- // ----- // ----- // GITHUB STATS: INIT // ----- // ----- //--->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&duration=2000&pause=1000&color=D79921&background=3C383600&center=true&random=false&height=100&lines=Thanks+for+visiting+my+repository;Bye+Bye.)
