@@ -11,22 +11,24 @@
 
 ### Mis redes sociales
 
-<a href="https://github.com/LearnWithCarlitos" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
-</a>
-<a href="https://www.tiktok.com/@learnwithcarlitos" target="_blank">
-  <img src="https://img.shields.io/badge/Tiktok%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
-<a href="https://www.twitch.tv/learnwithcarlitos" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
-<a href="https://x.com/LearnWCarlitos" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-<a href="https://www.youtube.com/@DevelopingWithCarlitos" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
-<a href="https://www.linkedin.com/in/learnwithcarlitos/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://discord.gg/JMan6jrp" target="_blank">
-  <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+<div align="center">
+  <a href="https://github.com/LearnWithCarlitos" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.tiktok.com/@learnwithcarlitos" target="_blank">
+    <img src="https://img.shields.io/badge/Tiktok%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
+  <a href="https://www.twitch.tv/learnwithcarlitos" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
+  <a href="https://x.com/LearnWCarlitos" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <a href="https://www.youtube.com/@DevelopingWithCarlitos" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/learnwithcarlitos/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://discord.gg/JMan6jrp" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</div>
 
 # Sobre mí 👋
 
