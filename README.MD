@@ -138,7 +138,7 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
 
 <br/>
 
-## My Skill Set (Area)
+## Mis habilidades (Full-Stack Developer Tech Stack)
 <table>
 <tr>
 <td valign="top" width="33%">
@@ -147,8 +147,8 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
   <div align="center">
     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
     <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
     <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
@@ -169,7 +169,6 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>
   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>
-  <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
 </div>
 
 </td>
@@ -186,6 +185,37 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
 </table>
 
 <br/>
+
+## Frontend
+- **React**: Biblioteca para construir interfaces de usuario.
+- **Next.js**: Framework para renderizado en servidor (SSR) y generación de sitios estáticos.
+- **Styled Components**: Librería para estilos con CSS-in-JS.
+- **Axios**: Cliente HTTP para manejar peticiones en frontend y backend.
+
+## Backend
+- **Node.Js**: Entorno de ejecución para JavaScript.
+- **Express.Js**: Framework minimalista para backend.
+- **Nest.Js**: Framework estructurado y escalable basado en TypeScript.
+- **JWT (JSON Web Tokens)**: Para autenticación segura.
+- **TypeORM**: ORM para interactuar con bases de datos relacionales.
+- **Postman**: Para probar y depurar APIs.
+
+## Base de Datos
+- **PostgreSQL**: Base de datos relacional potente y versátil.
+
+## Testing
+- **Jest**: Framework para pruebas unitarias e integradas.
+
+## DevOps
+- **Git**: Sistema de control de versiones.
+- **Vercel**: Plataforma para desplegar aplicaciones frontend y backend (Next.js).
+
+## Herramientas y Complementos
+- **ESLint/Prettier**: Para mantener un código limpio y consistente.
+
+---
+
+
 
 <!--- // ----- // ----- // GITHUB STATS: INIT // ----- // ----- //--->
 
