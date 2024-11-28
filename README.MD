@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=LearnWithCarlitos&style=flat-square&label=VISITAS+AL+PERFIL&color=cc241d" />
 
-<br/>
+
 <!-- // MENSAJE DE BIENVENIDA // -->
 
 ![Encabezado](./github-header-image.png)
@@ -86,7 +86,7 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
   <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-<br/>
+
 
 <!--- // ----- // ----- // HABILIDADES: INICIO // ----- // ----- //--->
 
@@ -171,6 +171,6 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
 
 <!--- // ----- // ----- // GITHUB STATS: FINISH // ----- // ----- //--->
 
-<br/>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&duration=2000&pause=1000&color=D79921&background=3C383600&center=true&random=false&height=100&lines=Thanks+for+visiting+my+repository;Bye+Bye.)
