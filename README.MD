@@ -15,7 +15,7 @@
 
 <a href="https://github.com/LearnWithCarlitos" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a>  
 <a href="https://www.tiktok.com/@learnwithcarlitos" target="_blank">
   <img src="https://img.shields.io/badge/Tiktok%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
 <a href="https://www.twitch.tv/learnwithcarlitos" target="_blank">
@@ -34,11 +34,45 @@
 
 <br />
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="carloscalderon01" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/carloscalderon01?trk=profile-badge">Carlos Alberto Calderón Barrios</a></div>
+
+<br />
+
 <!--- // ----- // ----- // SOBRE MÍ: INICIO // ----- // ----- //--->
 
-### Sobre mí
+# Sobre mí 👋
 
-Soy Ingeniero de Sistemas apasionado por la tecnología, los deportes y las matemáticas. Desde joven, he estado inmerso en el mundo de la programación y el desarrollo de software, siempre buscando mejorar mis habilidades y conocimientos en este campo.
+¡Hola! Soy un desarrollador **Full-Stack** apasionado por crear aplicaciones web modernas, eficientes y escalables. Me enfoco en utilizar tecnologías actualizadas para ofrecer soluciones completas, desde interfaces de usuario dinámicas hasta sistemas backend robustos. Aquí tienes un resumen de las herramientas y tecnologías con las que trabajo:
+
+## 🖌️ Frontend
+- **Next.js**: Desarrollo de aplicaciones con renderizado en servidor (SSR) y generación estática.
+- **React**: Construcción de interfaces de usuario interactivas y reutilizables.
+- **Axios**: Gestión de peticiones HTTP eficiente tanto en frontend como en backend.
+- **Styled Components**: Estilos modernos utilizando CSS-in-JS.
+
+## 💻 Backend
+- **NestJS**: Desarrollo de sistemas escalables y bien estructurados con TypeScript.
+- **Express.js**: Creación rápida de APIs RESTful.
+- **Node.js**: Desarrollo backend utilizando JavaScript/TypeScript.
+- **JWT**: Implementación de autenticación segura.
+- **TypeORM**: Interacción con bases de datos relacionales de forma eficiente.
+- **Postman**: Pruebas y depuración de APIs.
+
+## 🗂️ Base de Datos
+- **PostgreSQL**: Gestión de datos con una base de datos relacional robusta.
+
+## 🧪 Testing
+- **Jest**: Desarrollo y mantenimiento de pruebas unitarias e integradas para garantizar la calidad.
+
+## ⚙️ DevOps y Herramientas
+- **Git**: Control de versiones y colaboración en equipo.
+- **ESLint / Prettier**: Código limpio, consistente y fácil de mantener.
+
+---
+
+Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al día en el mundo del desarrollo web. Si tienes algún proyecto interesante o quieres colaborar, ¡no dudes en contactarme! 🚀
+
+<!--- // ----- // ----- // SOBRE MÍ: FIN // ----- // ----- //--->
 
 <div align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -59,37 +93,6 @@ Soy Ingeniero de Sistemas apasionado por la tecnología, los deportes y las mate
 </div>
 
 <br/>
-
-### Mis metas
-
-Mis objetivos principales son:
-
-- Aprender inglés para comunicarme mejor en un entorno global.
-- Optimizar mi trabajo como programador.
-
-Creo firmemente en la importancia del aprendizaje continuo y la mejora constante en cualquier profesión, y me esfuerzo día a día para alcanzar estas metas.
-
-### Experiencia profesional
-
-A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones web hasta soluciones de software personalizadas. Siempre me enfoco en escribir código limpio y eficiente que resuelva problemas de manera efectiva.
-
-### Contacto
-
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme si quieres discutir ideas, proyectos o simplemente charlar sobre tecnología y programación.
-
-<!--- // ----- // ----- // SOBRE MÍ: FIN // ----- // ----- //--->
-
-<!--- // ----- // ----- // DATOS RÁPIDOS: INICIO // ----- // ----- //--->
-
-# Datos rápidos
-
-- 🔭 Actualmente, soy creador de contenido en [Mi Canal](https://www.youtube.com/@DevelopingWithCarlitos).
-
-- 📝 Estoy esforzándome para obtener un certificado internacional de inglés (TOEFL o IELTS).
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />
-
-<!--- // ----- // ----- // DATOS RÁPIDOS: FIN // ----- // ----- //--->
 
 <!--- // ----- // ----- // HABILIDADES: INICIO // ----- // ----- //--->
 
@@ -183,39 +186,9 @@ A lo largo de mi carrera, he trabajado en diversos proyectos, desde aplicaciones
 </td>
 </tr>
 </table>
-
 <br/>
 
-## Frontend
-- **React**: Biblioteca para construir interfaces de usuario.
-- **Next.js**: Framework para renderizado en servidor (SSR) y generación de sitios estáticos.
-- **Styled Components**: Librería para estilos con CSS-in-JS.
-- **Axios**: Cliente HTTP para manejar peticiones en frontend y backend.
-
-## Backend
-- **Node.Js**: Entorno de ejecución para JavaScript.
-- **Express.Js**: Framework minimalista para backend.
-- **Nest.Js**: Framework estructurado y escalable basado en TypeScript.
-- **JWT (JSON Web Tokens)**: Para autenticación segura.
-- **TypeORM**: ORM para interactuar con bases de datos relacionales.
-- **Postman**: Para probar y depurar APIs.
-
-## Base de Datos
-- **PostgreSQL**: Base de datos relacional potente y versátil.
-
-## Testing
-- **Jest**: Framework para pruebas unitarias e integradas.
-
-## DevOps
-- **Git**: Sistema de control de versiones.
-- **Vercel**: Plataforma para desplegar aplicaciones frontend y backend (Next.js).
-
-## Herramientas y Complementos
-- **ESLint/Prettier**: Para mantener un código limpio y consistente.
-
 ---
-
-
 
 <!--- // ----- // ----- // GITHUB STATS: INIT // ----- // ----- //--->
 
