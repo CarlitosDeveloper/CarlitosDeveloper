@@ -157,7 +157,7 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
   <br />
   <div align="center">
     <a title="Go to Source">
-      <img align="center" width=75% src="https://github-profile-trophy.vercel.app/?username=LearnWithCarlitos&theme=gruvbox&row=3&column=3&margin-h=20&margin-w=20&no-bg=false" alt="TROPHY" />
+      <img align="center" width=75% src="https://github-profile-trophy.vercel.app/?username=LearnWithCarlitos&theme=gruvbox&row=1&column=4&margin-h=20&margin-w=20&no-bg=false" alt="TROPHY" />
     </a>
   </div>
 </div>
