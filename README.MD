@@ -105,7 +105,6 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
 </tr>
 </table>
 
-<!--- // ----- // ----- // ----- // ----- // HABILIDADES: FIN // ----- // ----- // ----- // ----- //--->
 ---
 
 <div align="center">
@@ -124,46 +123,33 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel%20-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</div>
-
----
-
-<!--- // ----- // ----- // GITHUB STATS: INIT // ----- // ----- //--->
-
 # Github Stats
 <div>
   <div align="center">
     <a title="Go to Source">
-      <img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com?user=LearnWithCarlitos&theme=gruvbox&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=500" alt="Current Streak" />
+      <img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com?user=LearnWithCarlitos&theme=radical&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=500" alt="Current Streak" />
     </a>
   </div>
   <br />
   <div align="center">
     <a title="Go to Source">
-      <img align="center" width=60% src="https://github-readme-stats.vercel.app/api?username=LearnWithCarlitos&show_icons=true&theme=gruvbox" alt="GitHub Stats Profile" />
+      <img align="center" width=60% src="https://github-readme-stats.vercel.app/api?username=LearnWithCarlitos&show_icons=true&theme=radical" alt="GitHub Stats Profile" />
     </a>
   </div>
   <br />
   <div align="center">
     <a title="Go to Source">
-      <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnWithCarlitos&layout=compact&theme=gruvbox" alt="Most Used Languages" />
+      <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnWithCarlitos&layout=compact&theme=radical" alt="Most Used Languages" />
     </a>
   </div>
   <br />
   <div align="center">
     <a title="Go to Source">
-      <img align="center" width=75% src="https://github-profile-trophy.vercel.app/?username=LearnWithCarlitos&theme=gruvbox&row=1&column=4&margin-h=20&margin-w=20&no-bg=false" alt="TROPHY" />
+      <img align="center" width=75% src="https://github-profile-trophy.vercel.app/?username=LearnWithCarlitos&theme=radical&row=1&column=4&margin-h=20&margin-w=20&no-bg=false" alt="TROPHY" />
     </a>
   </div>
 </div>
 
-<!--- // ----- // ----- // HABILIDADES: FIN // ----- // ----- //--->
 ---
-<!--- // ----- // ----- // GITHUB STATS: INIT // ----- // ----- //--->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&duration=2000&pause=1000&color=D79921&background=3C383600&center=true&random=false&height=100&lines=Thanks+for+visiting+my+repository;Bye+Bye.)
