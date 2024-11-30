@@ -150,4 +150,4 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&duration=2000&pause=1000&color=D79921&background=3C383600&center=true&random=false&height=100&lines=Thanks+for+visiting+my+repository;Bye+Bye.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FE428E&background=14132100&center=true&vCenter=true&random=true&width=450&lines=Gracias+por+visitarnos!)](https://git.io/typing-svg)
