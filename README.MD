@@ -1,5 +1,5 @@
 
-<img align="right" src="https://komarev.com/ghpvc/?username=LearnWithCarlitos&style=flat-square&label=VISITAS+AL+PERFIL&color=cc241d"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=CarlitosDeveloper&style=flat-square&label=VISITAS+AL+PERFIL&color=cc241d"/>
 
 ---
 
@@ -12,18 +12,18 @@
 ### Mis redes sociales
 
 <div align="center">
-  <a href="https://github.com/LearnWithCarlitos" target="_blank">
+  <a href="https://github.com/CarlitosDeveloper" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
   </a>
-  <a href="https://www.tiktok.com/@learnwithcarlitos" target="_blank">
+  <a href="https://www.tiktok.com/@CarlitosDeveloper" target="_blank">
     <img src="https://img.shields.io/badge/Tiktok%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
-  <a href="https://www.twitch.tv/learnwithcarlitos" target="_blank">
+  <a href="https://www.twitch.tv/CarlitosDeveloper" target="_blank">
     <img src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
   <a href="https://x.com/LearnWCarlitos" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   <a href="https://www.youtube.com/@DevelopingWithCarlitos" target="_blank">
     <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
-  <a href="https://www.linkedin.com/in/learnwithcarlitos/" target="_blank">
+  <a href="https://www.linkedin.com/in/CarlitosDeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="https://discord.gg/JMan6jrp" target="_blank">
     <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
@@ -125,25 +125,25 @@ Siempre estoy buscando mejorar y aprender nuevas tecnologías para mantenerme al
 <div>
   <div align="center">
     <a title="Go to Source">
-      <img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com?user=LearnWithCarlitos&theme=radical&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=500" alt="Current Streak" />
+      <img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com?user=CarlitosDeveloper&theme=radical&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=500" alt="Current Streak" />
     </a>
   </div>
   <br />
   <div align="center">
     <a title="Go to Source">
-      <img align="center" width=60% src="https://github-readme-stats.vercel.app/api?username=LearnWithCarlitos&show_icons=true&theme=radical" alt="GitHub Stats Profile" />
+      <img align="center" width=60% src="https://github-readme-stats.vercel.app/api?username=CarlitosDeveloper&show_icons=true&theme=radical" alt="GitHub Stats Profile" />
     </a>
   </div>
   <br />
   <div align="center">
     <a title="Go to Source">
-      <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnWithCarlitos&layout=compact&theme=radical" alt="Most Used Languages" />
+      <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlitosDeveloper&layout=compact&theme=radical" alt="Most Used Languages" />
     </a>
   </div>
   <br />
   <div align="center">
     <a title="Go to Source">
-      <img align="center" width=75% src="https://github-profile-trophy.vercel.app/?username=LearnWithCarlitos&theme=radical&row=1&column=4&margin-h=20&margin-w=20&no-bg=false" alt="TROPHY" />
+      <img align="center" width=75% src="https://github-profile-trophy.vercel.app/?username=CarlitosDeveloper&theme=radical&row=1&column=4&margin-h=20&margin-w=20&no-bg=false" alt="TROPHY" />
     </a>
   </div>
 </div>
