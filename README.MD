@@ -13,20 +13,31 @@
 
 <div align="center">
   <a href="https://github.com/CarlitosDeveloper" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.tiktok.com/@CarlitosDeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/Tiktok%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
-  <a href="https://www.twitch.tv/CarlitosDeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
+  <a href="https://www.tiktok.com/@carlitos_learningjourney" target="_blank">
+    <img src="https://img.shields.io/badge/Tiktok%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://www.twitch.tv/learnwithcarlitos" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/>
+  </a>
+  <a href="https://kick.com/learnwithcarlitos" target="_blank">
+    <img src="https://img.shields.io/badge/Kick%20-%2300C040.svg?&style=for-the-badge&logo=Kick&logoColor=white" alt="Kick"/>
+  </a>
   <a href="https://x.com/LearnWCarlitos" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-  <a href="https://www.youtube.com/@DevelopingWithCarlitos" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
-  <a href="https://www.linkedin.com/in/CarlitosDeveloper/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://discord.gg/JMan6jrp" target="_blank">
-    <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter/X"/>
+  </a>
+  <a href="https://www.youtube.com/@CarlitosDeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carloscalderon01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61570847854095" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://discord.gg/QUPPRwZz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
